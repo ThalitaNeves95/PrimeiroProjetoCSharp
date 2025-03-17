@@ -2,7 +2,7 @@
 //// Peça dois números inteiros ao usuário e exiba o maior entre eles.
 
 //Capta o primeiro número
-//Console.WriteLine("Digite o primeiro número:");
+Console.WriteLine("Digite o primeiro número:");
 int numero1 = Convert.ToInt32(Console.ReadLine());
 
 // Capta o segundo número
@@ -23,6 +23,7 @@ else
 }
 
 //2.Classificação de Idade
+
 //Peça a idade do usuário e classifique-o como:
 //-"Criança"(0 a 12 anos)
 //- "Adolescente"(13 a 17 anos)
@@ -31,6 +32,7 @@ else
 
 // Capta a idade do usuário
 Console.WriteLine("Digite sua idade:");
+
 // Converte o valor do número decimal especificado em um inteiro com sinal de 32 bits equivalente.
 int idade = Convert.ToInt32(Console.ReadLine());
 
@@ -56,7 +58,6 @@ else
 }
 
 // If Else simplificado
-
 idade = 29;
 
 string msg = (idade > 18) ? "Maior de idade!" : "Menor de idade";
@@ -64,6 +65,7 @@ string msg = (idade > 18) ? "Maior de idade!" : "Menor de idade";
 //3.Par ou Ímpar**
 // Crie um programa que receba um número inteiro do usuário e exiba se ele é par ou ímpar.
 
+// Capta o número
 Console.WriteLine("Digite o número:");
 int inteiro = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(inteiro / 2);
@@ -82,6 +84,8 @@ string tipo = (inteiro % 2 == 0) ? "Par" : "Impar";
 
 // 4. Maior de Três Números
 // Receba três números e determine o maior entre eles.
+
+//Capta os números
 Console.WriteLine("Digite o primeiro número:");
 int opcao1 = Convert.ToInt32(Console.ReadLine());
 
@@ -110,12 +114,9 @@ else
 // Exibe o resultado
 Console.WriteLine($"O maior número é: {maior}");
 
-
-//Cálculo do Delta (Fórmula de Bhaskara)
+// 5. Cálculo do Delta (Fórmula de Bhaskara)
 //Receba os coeficientes de uma equação quadrática (ax² + bx + c = 0) e calcule o delta.
 
-//Referencia nula - NullPointerException - Verde embaixo do ReadLine
-// Nula - Não tem espaço reservado na memória
 Console.WriteLine("Digite o coeficiente 'a' (diferente de zero):");
 double a = Convert.ToInt32(Console.ReadLine());
 
@@ -139,5 +140,3 @@ double delta = Math.Pow(b, 2) - 4 * a * c;
 
 // Exibe o resultado
 Console.WriteLine($"O valor de delta (Δ) é: {delta}");
-
-
