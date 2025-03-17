@@ -1,14 +1,14 @@
 ﻿//// 1. Maior de Dois Números
 //// Peça dois números inteiros ao usuário e exiba o maior entre eles.
 
-//Capta o primeiro número
+//Capta os números
 Console.WriteLine("Digite o primeiro número:");
 int numero1 = Convert.ToInt32(Console.ReadLine());
 
-// Capta o segundo número
 Console.WriteLine("Digite o segundo número:");
 int numero2 = Convert.ToInt32(Console.ReadLine());
 
+// Verifica qual é o maior número
 if (numero1 > numero2)
 {
     Console.WriteLine("O maior número é: " + numero1);
