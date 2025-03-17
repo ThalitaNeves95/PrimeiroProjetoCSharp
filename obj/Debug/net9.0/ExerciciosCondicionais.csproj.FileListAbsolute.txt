@@ -1,0 +1,14 @@
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\bin\Debug\net9.0\ExerciciosCondicionais.exe
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\bin\Debug\net9.0\ExerciciosCondicionais.deps.json
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\bin\Debug\net9.0\ExerciciosCondicionais.runtimeconfig.json
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\bin\Debug\net9.0\ExerciciosCondicionais.dll
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\bin\Debug\net9.0\ExerciciosCondicionais.pdb
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.AssemblyInfo.cs
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.dll
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\refint\ExerciciosCondicionais.dll
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.pdb
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ExerciciosCondicionais.genruntimeconfig.cache
+C:\Users\fic\Documents\WorkStation\Senai-BACKE.25\ExerciciosCondicionais\obj\Debug\net9.0\ref\ExerciciosCondicionais.dll
